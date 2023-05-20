@@ -1,8 +1,7 @@
 # DoorLock-Arduino
 ## Door lock system on Arduino UNO
 
-> Security system for Smart Homes to control access to doors thanks to rfid reader.
-
+> Security solution, made by Smart Home Systems, controling access to the door opening system provided by rfid reader.
 
 ## Features
 + RFID card door access control
