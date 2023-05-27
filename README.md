@@ -59,6 +59,8 @@ Door open sensor -- 2
 ## About alternative version
 > I tried to make database for adding new cards to system and read them to open doors for good ones but I stopped this idea, beacuse sometimes it works but after few seconds I got tons of errors from my SD reader. I don' t know how to solve it. Can you help me?
 
+## Scheme
+![Project scheme](https://github.com/QadamosssQ/Arduino-DoorLock/blob/main/DoorLock_scheme.png)
 <br>
 <br>
 
