@@ -3,6 +3,10 @@
 
 > Security solution for Smart Home Systems, managing access to the door locking in RFID system.
 
+## How it works?
+> If you want to open door you just must to touch rfid sensor with your rfid card with id declared in code in ```allowedCards[]``` array. If you are inside room, to open door you must to hold button until doors open.
+> Every action you will see on tft display.
+
 ## Features
 + RFID card door access control
 + Easy use
