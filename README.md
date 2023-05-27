@@ -15,6 +15,7 @@
 + TFT 2.8" 240x320 ST7789 (Display)
 + Electromagnetic door bolt 12V
 + Button, green and red diodes, breadboard, door open sensor
++ power supply 12V 1A
 
 ## Connections
 
