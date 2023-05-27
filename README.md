@@ -63,7 +63,7 @@ Door open sensor -- 2
 
 
 ## Scheme
-![Project scheme](https://github.com/QadamosssQ/Arduino-DoorLock/blob/main/DoorLock_scheme.png)
+![Project scheme](https://github.com/QadamosssQ/Arduino-DoorLock/blob/main/img/DoorLock_scheme.png)
 <br>
 <br>
 
